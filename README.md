@@ -4,7 +4,8 @@ This project aims to predict and analyse customer churn using various machine le
 
 ## Project Structure
 
-Customer_Churn_Prediction/
+Customer_Churn_Predictive_Analytics/
+.
 │
 ├── Customer_churn_prediction.html            # Static HTML version of the notebook with Plotly plots rendered as SVG
 ├── Customer_churn_prediction.ipynb            # Jupyter notebook with Plotly plots rendered as SVG
