@@ -2,6 +2,8 @@
 
 This project aims to predict and analyse customer churn using various machine learning algorithms. Customer churn, or customer attrition, is when customers stop doing business with a company. Predicting churn helps businesses take proactive steps to retain customers and enhance revenue.
 
+![Customer Churn/Attrition](customer_churn2.png)
+
 ## Project Structure
 
 Customer_Churn_Predictive_Analytics/
@@ -16,6 +18,7 @@ Customer_Churn_Predictive_Analytics/
 └── README.md                                  # Project documentation (this file)
 ```
 
+
 ## Notebooks
 
 ### 1. Customer_churn_prediction.ipynb
@@ -27,6 +30,7 @@ This notebook contains the entire analysis with Plotly plots rendered as SVG. It
 This notebook includes interactive Plotly plots, which can be viewed using nbviewer. It provides an enhanced, interactive experience for exploring the data and analysis.
 
 You can view the interactive notebook directly [Click Me for Interactive Fun!](https://nbviewer.org/github/yangsong24/Customer_Churn_Predictive_Analytics/blob/main/Customer_churn_prediction_NBviewer.ipynb).
+
 
 ## Dataset
 
