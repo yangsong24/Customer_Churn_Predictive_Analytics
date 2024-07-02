@@ -72,7 +72,7 @@ Each model's performance was evaluated using F1 Score and Accuracy metrics.
 
 ## Results
 
-The logistic regression model with appropriate hyperparameter tuning the best balance of precision and recall for predicting customer churn in this dataset.
+The logistic regression model with appropriate hyperparameter tuning provided the best balance of precision and recall for predicting customer churn in this dataset.
 
 ## Conclusion
 
