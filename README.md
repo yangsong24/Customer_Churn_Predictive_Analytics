@@ -5,6 +5,7 @@ This project aims to predict and analyse customer churn using various machine le
 ## Project Structure
 
 Customer_Churn_Predictive_Analytics/
+```bash
 .
 │
 ├── Customer_churn_prediction.html            # Static HTML version of the notebook with Plotly plots rendered as SVG
@@ -13,7 +14,7 @@ Customer_Churn_Predictive_Analytics/
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv       # Dataset used for the analysis
 ├── customer_churn.png                         # Example plot image used in the analysis
 └── README.md                                  # Project documentation (this file)
-
+```
 
 ## Notebooks
 
