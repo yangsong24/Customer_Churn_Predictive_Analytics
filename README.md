@@ -16,7 +16,7 @@ Customer_Churn_Predictive_Analytics/
 |── Customer_churn_prediction_v2.ipynb         # v2 Jupyter notebook: (added feature engineering + pipeline (ColumnTransformer, CV-safe transforms) + stacking exp.) - no data leakage
 |── WA_Fn-UseC_-Telco-Customer-Churn.csv       # Dataset used for the analysis
 |── customer_churn.png                         # Example plot image used in the analysis
-'── README.md                                  # Project documentation (this file)
+|── README.md                                  # Project documentation (this file)
 ```
 
 
