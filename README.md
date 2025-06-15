@@ -10,7 +10,7 @@ Customer_Churn_Predictive_Analytics/
 ```bash
 .
 |
-|-- Customer_churn_prediction.html            # Static HTML version of the notebook with Plotly plots rendered as SVG
+|-- Customer_churn_prediction.html             # Static HTML version of the notebook with Plotly plots rendered as SVG
 |-- Customer_churn_prediction.ipynb            # v1 Jupyter notebook with Plotly plots rendered as SVG
 |-- Customer_churn_prediction_NBviewer.ipynb   # v1 Jupyter notebook with interactive Plotly plots (for nbviewer)
 |-- Customer_churn_prediction_v2.ipynb         # v2 Jupyter notebook: (added feature engineering + pipeline (ColumnTransformer, CV-safe transforms) + stacking exp.) - no data leakage
